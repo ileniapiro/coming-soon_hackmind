@@ -14,7 +14,7 @@ As you can see from the image below the website is fully responsive.
 
 ## Copyright
 
-Copyright (C) Hackmind di Proietti Claudio - All Rights Reserved
-Unauthorized copying of this file, via any medium is strictly prohibited
-Proprietary and confidential
-Written by Ilenia Piro <ilenia.piro@hackmind.it>, March 2020
+* Copyright (C) Hackmind di Proietti Claudio - All Rights Reserved
+* Unauthorized copying of this file, via any medium is strictly prohibited
+* Proprietary and confidential
+* Written by Ilenia Piro <ilenia.piro@hackmind.it>, March 2020
